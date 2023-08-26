@@ -52,7 +52,7 @@ Tested in Virtualbox with Macbook Pro 16 (6-Core, i7-9750H).
 # Compilation
 For a start, you can compile the code and test the application. Note that you can compile the code in two different modes “Debug” or “Release”. When compiled in “Debug” mode, there are a lot of additional tests that are done behind the scenes, e.g., if you are accessing a std::vector, it always checks that you stay within its bounds. It is very useful to compile in “Debug” mode when developing code to ensure that all these tests are performed. Nevertheless, once the code is working, you should switch to “Release”. If you now compile the code, it will be highly optimized and result in a tremendous speedup. Especially, when working with complicated scenes, it is a good idea to rely on “Release” mode. In the same spirit, when in “Debug” mode, you should rather work with simpler scenes to avoid long wait times.
 
-Whatever the mode, once compiled, you can launch the application. When testing your implementation, we will use Visual Studio on Windows to compile your work, as for the assignments. Please note that you should not (and do not have to) use any external libraries. If you do, please make sure that your project can be compiled without any extra efforts or it might affect the grading.
+Whatever the mode, once compiled, you can launch the application. When testing your implementation, we will use Visual Studio on Windows to compile your work.
 
 # Authors
 Tan M. Nguyen | Salzmann Linus | Aratrika Das
