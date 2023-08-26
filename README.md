@@ -20,21 +20,21 @@ The user interface enables you to choose from a selection of test scenes to work
 
 # Demo
 <p align="center">
-    <img src="assets/bloom.png" alt="Bloom" width="150">
-    <img src="assets/glossy-reflection.png" alt="Glossy Reflection" width="150">
-    <img src="assets/motion-blur.png" alt="Motion Blur" width="150">
+    <img src="assets/bloom.png" alt="Bloom" width="150" height="150">
+    <img src="assets/glossy-reflection.png" alt="Glossy Reflection" width="150" height="150">
+    <img src="assets/motion-blur.png" alt="Motion Blur" width="150" height="150">
 </p>
 <p align="center">
     <em>Bloom Effect</em> | <em>Glossy Reflection</em> | <em>Motion Blur</em>
 </p>
 <p align="center">
-    <img src="assets/texture-mapping.png" alt="Bloom" width="150">
-    <img src="assets/transparency.png" alt="Glossy Reflection" width="150">
+    <img src="assets/texture-mapping.png" alt="Texture Mapping" width="150" height="150">
+    <img src="assets/transparency.png" alt="Transparency" width="150" height="150">
 </p>
 <p align="center">
     <em>Texture Mapping</em> | <em>Transparency</em> 
 </p>
-
+g
 # Performance 
 |           | Cornell Box | Monkey     | Dragon    | Teapot    |
 |-----------|-------------|------------|-----------|-----------|
