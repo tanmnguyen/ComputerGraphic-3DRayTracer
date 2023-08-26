@@ -34,7 +34,7 @@ The user interface enables you to choose from a selection of test scenes to work
 <p align="center">
     <em>Texture Mapping</em> | <em>Transparency</em> 
 </p>
-g
+
 # Performance 
 |           | Cornell Box | Monkey     | Dragon    | Teapot    |
 |-----------|-------------|------------|-----------|-----------|
